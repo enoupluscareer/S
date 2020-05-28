@@ -5,9 +5,14 @@
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
   {
-    "n": "Latest Notifications",
+    "n": "Telangana State Jobs",
     "b": "-",
-    "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
+    "u": "https://epcareerjobs.blogspot.com/search/label/Telangana%20Jobs"
+  },
+  {
+    "n": "Telangana State Notifications",
+    "b": "-",
+    "u": "https://epcareernoti.blogspot.com/search/label/Telangana%20Notifications"
   },
   {
     "n": "Eligibality / Syllabus / Exam Pattern / Answer Key / Selection Procedure / Previous Papers  ",
