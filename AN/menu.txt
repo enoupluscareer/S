@@ -13,5 +13,10 @@
     "n": "Eligibality / Syllabus / Exam Pattern / Answer Key / Selection Procedure / Previous Papers  ",
     "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempother.html"
+  },
+  {
+    "n": "All Jobs",
+    "b": "-",
+    "u": "http://enouplus.xyz"
   }
 ]
