@@ -1,6 +1,6 @@
 [
   {
-    "n": "Latest Jobs",
+    "n": "Govt Jobs",
     "b": "2",
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
