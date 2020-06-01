@@ -18,5 +18,45 @@
     "n": "Others",
     "b": " ",
     "u": "https://enoupluscareer.github.io/temppage/tempother.html"
+  },
+   {
+    "n": "All Govt Jobs",
+    "b": "2",
+    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
+  },
+  {
+    "n": "State Govt Jobs",
+    "b": "2",
+    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
+  },
+  {
+    "n": "Latest Notifications",
+    "b": "12",
+    "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
+  },
+  {
+    "n": "Others",
+    "b": " ",
+    "u": "https://enoupluscareer.github.io/temppage/tempother.html"
+  },
+   {
+    "n": "All Govt Jobs",
+    "b": "2",
+    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
+  },
+  {
+    "n": "State Govt Jobs",
+    "b": "2",
+    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
+  },
+  {
+    "n": "Latest Notifications",
+    "b": "12",
+    "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
+  },
+  {
+    "n": "Others",
+    "b": " ",
+    "u": "https://enoupluscareer.github.io/temppage/tempother.html"
   }
 ]
