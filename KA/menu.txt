@@ -1,17 +1,17 @@
 [
   {
     "n": "Latest Jobs",
-    "b": "-",
+    "b": "2",
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
   {
     "n": "Latest Notifications",
-    "b": "-",
+    "b": "12",
     "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
   },
   {
     "n": "Eligibality / Syllabus / Exam Pattern / Answer Key / Selection Procedure / Previous Papers  ",
-    "b": "-",
+    "b": "8",
     "u": "https://enoupluscareer.github.io/temppage/tempother.html"
   },
   {
