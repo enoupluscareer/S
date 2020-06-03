@@ -1,17 +1,17 @@
 [
   {
     "n": "All Govt Jobs",
-    "b": "2",
+    "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
   {
     "n": "State Govt Jobs",
-    "b": "2",
+    "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
   {
     "n": "Latest Notifications",
-    "b": "12",
+    "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
   },
   {
@@ -19,39 +19,10 @@
     "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempother.html"
   },
-   {
-    "n": "All Govt Jobs",
-    "b": "2",
-    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
-  },
   {
-    "n": "State Govt Jobs",
+    "n": "Maintanance",
     "b": "-",
-    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
-  },
-  {
-    "n": "Latest Notifications",
-    "b": "12",
-    "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
-  },
-   {
-    "n": "Others",
-    "b": "-",
-    "u": "https://enoupluscareer.github.io/temppage/tempother.html"
-  },
-   {
-    "n": "All Govt Jobs",
-    "b": "2",
-    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
-  },
-  {
-    "n": "State Govt Jobs",
-    "b": "2",
-    "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
-  },
-  {
-    "n": "Latest Notifications",
-    "b": "12",
-    "u": "https://enoupluscareer.github.io/temppage/tempnoti.html"
+    "u": "https://ecareer.github.io/p/"
   }
+   
 ]
