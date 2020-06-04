@@ -22,7 +22,7 @@
   {
     "n": "Maintanance",
     "b": "-",
-    "u": "https://ecareer.github.io/p/"
+    "u": "https://udyogainfo.blogspot.com/"
   }
    
 ]
