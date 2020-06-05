@@ -1,6 +1,11 @@
 [
-  {
-    "n": "All Govt Jobs",
+ {
+    "n": "ಇತ್ತೀಚಿನ  ಹುದ್ದೆಗಳ ಮಾಹಿತಿ",
+    "b": "NEW",
+    "u": "https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"
+  }. 
+ {
+    "n": "All Govt Jobs (English)",
     "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempjobs.html"
   },
@@ -18,16 +23,6 @@
     "n": "Others",
     "b": "-",
     "u": "https://enoupluscareer.github.io/temppage/tempother.html"
-  },
-  {
-    "n": "Maintanance",
-    "b": "-",
-    "u": "https://ecareer.github.io/p/index.html"
-  },
-  {
-    "n": "UDYOGA INFO C",
-    "b": "-",
-    "u": "https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"
   }
    
 ]
