@@ -23,6 +23,11 @@
     "n": "Maintanance",
     "b": "-",
     "u": "https://ecareer.github.io/p/index.html"
+  },
+  {
+    "n": "UDYOGA INFO",
+    "b": "-",
+    "u": "http://udyogainfo.blogspot.com/"
   }
    
 ]
