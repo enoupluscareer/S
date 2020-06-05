@@ -25,7 +25,7 @@
     "u": "https://ecareer.github.io/p/index.html"
   },
   {
-    "n": "UDYOGA INFO",
+    "n": "UDYOGA INFO C",
     "b": "-",
     "u": "https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"
   }
