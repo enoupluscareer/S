@@ -27,7 +27,7 @@
   {
     "n": "UDYOGA INFO",
     "b": "-",
-    "u": "http://udyogainfo.blogspot.com/"
+    "u": "https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"
   }
    
 ]
