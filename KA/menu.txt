@@ -3,7 +3,7 @@
     "n": "ಇತ್ತೀಚಿನ  ಹುದ್ದೆಗಳ ಮಾಹಿತಿ",
     "b": "NEW",
     "u": "https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"
-  }. 
+  }, 
  {
     "n": "All Govt Jobs (English)",
     "b": "-",
