@@ -27,7 +27,7 @@
   {
     "n": "Maintanance",
     "b": "-",
-    "u": "https://enouplus.xyz"
+    "u": "http://enouplus.xyz"
   }
    
 ]
