@@ -1,6 +1,6 @@
 [
 {"n":" ಉದ್ಯೋಗ ಮಾಹಿತಿ (ಕನ್ನಡ ) ","b":"NEW","u":"https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"},
-{"n":" ಅಧಿಸೂಚನೆಗಳು/Notifications ","b":"NEW","u":"https://udyogainfo.blogspot.com/search/label/NOTIFICATIONS"},
+{"n":" ಅಧಿಸೂಚನೆಗಳು (Notifications) ","b":"NEW","u":"https://udyogainfo.blogspot.com/search/label/NOTIFICATIONS"},
 {"n":"All Govt Jobs (English)","b":"-","u":"https://enoupluscareer.github.io/temppage/tempjobs.html"},
 {"n":"State Govt Jobs","b":"-","u":"https://enoupluscareer.github.io/temppage/tempjobs.html"},
 {"n":"Latest Notifications","b":"-","u":"https://enoupluscareer.github.io/temppage/tempnoti.html"},
