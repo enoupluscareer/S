@@ -1,5 +1,3 @@
 [
-{"n":"ಉದ್ಯೋಗ ಮಾಹಿತಿ","b":"-","u":"https://udyogainfo.blogspot.com/search/label/ALL%20JOBS"},
-{"n":"ಅಧಿಸೂಚನೆಗಳು","b":"-","u":"https://udyogainfo.blogspot.com/search/label/NOTIFICATIONS"},
-{"n":"ಪುಸ್ತಕ ಮತ್ತು ನೋಟ್ಸ್","b":"NEW","u":"https://udyogainfobooks.blogspot.com/"}
+{"n":"ಉದ್ಯೋಗ ಮಾಹಿತಿ","b":"-","u":"https://enouplus.xyz/category/all-jobs"}
 ]
